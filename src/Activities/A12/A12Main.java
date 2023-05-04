@@ -1,7 +1,7 @@
 package Activities.A12;
 
 public class A12Main {
-    static void main(String[] args){
+    public static void main(String[] args){
         Classes student1 = new Classes();
         System.out.printf("Name: %s%n", student1.name);
         System.out.printf("ID: %s%n", student1.id);

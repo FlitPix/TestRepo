@@ -1,7 +1,7 @@
 package Activities.A13;
 
 public class Test {
-    public void main(String[] args){
+    public static void main(String[] args){
         // Init object
         Pokemon bulbasaur = new Pokemon("Bulbasaur","Grass/Poison",5,500,20);
 
