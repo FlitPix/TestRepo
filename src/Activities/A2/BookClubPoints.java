@@ -1,8 +1,8 @@
-package Activities;
+package Activities.A2;
 
 import java.util.Scanner;
 
-public class A2BookClubPoints {
+public class BookClubPoints {
     static Scanner keyboard = new Scanner(System.in);
     public static void main(String[] args) {
         int books;

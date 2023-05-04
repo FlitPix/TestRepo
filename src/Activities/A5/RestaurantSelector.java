@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A5;
 import java.util.Scanner;
 
 public class RestaurantSelector {

@@ -1,7 +1,7 @@
-package Activities;
+package Activities.A1;
 
 import java.util.Scanner;
-public class A1DialogScanner {
+public class DialogScanner {
     static Scanner keyboard = new Scanner(System.in);
     public static void main(String[] args) {
         //Task 1: Reverse Strings

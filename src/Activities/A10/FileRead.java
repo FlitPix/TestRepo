@@ -1,5 +1,5 @@
 // Outputs contents of a file, if it's in a specific structure.
-package Activities;
+package Activities.A10;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

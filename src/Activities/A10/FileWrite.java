@@ -1,5 +1,5 @@
 // Writes to a file. Contents in that file are lost if it already exists.
-package Activities;
+package Activities.A10;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

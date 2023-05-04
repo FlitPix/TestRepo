@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A9;
 import java.util.Random;
 import java.util.Scanner;
 public class RandomNumber {

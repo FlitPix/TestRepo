@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A3;
 
 import java.util.Scanner;
 

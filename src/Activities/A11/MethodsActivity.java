@@ -1,5 +1,5 @@
 // Demonstrates the use of functions/methods with a simple rectangle area calculator.
-package Activities;
+package Activities.A11;
 import java.util.Scanner;
 public class MethodsActivity {
     static Scanner keyboard = new Scanner(System.in);

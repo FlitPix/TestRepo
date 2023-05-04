@@ -1,8 +1,8 @@
-package Activities;
+package Activities.A2;
 
 import java.util.Scanner;
 
-public class A2TestScores {
+public class TestScores {
     static Scanner keyboard = new Scanner(System.in);
     public static void main(String[] args) {
         int score1, score2, score3; //variables

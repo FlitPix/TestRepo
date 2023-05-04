@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A3;
 
 import javax.swing.JOptionPane;
 public class Login {

@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A7;
 import java.util.Scanner;
 public class GuessingGame {
     static Scanner keyboard = new Scanner(System.in);

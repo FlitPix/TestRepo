@@ -1,4 +1,4 @@
-package Activities;
+package Activities.A8;
 import java.util.Scanner;
 public class TestAverage {
     static Scanner keyboard = new Scanner(System.in);
